@@ -10,7 +10,7 @@
   margin: 0 auto;
 }
 .header {
-  background-image: url(/image/header/bg.png);
+  background-image: url("image/header/bg.png");
   padding: 40px 113px 60px;
   background-color: #fff;
 }
@@ -85,7 +85,7 @@
 .column {
   width: 380px;
   height: 580px;
-  background-image: url(/image/main/box.png);
+  background-image: url("image/main/box.png");
   background-position: center;
   background-size: cover;
 }
@@ -149,7 +149,7 @@
   padding: 64px 64px 304px 678px;
   color: #ffffff;
   letter-spacing: 0.05em;
-  background-image: url(/image/main/bg-top.png);
+  background-image: url("image/main/bg-top.png");
   width: 1140px;
   height: 480px;
 }
@@ -166,7 +166,7 @@
   font-weight: 400;
   letter-spacing: 0.05em;
   color: #ffffff;
-  background-image: url(/image/main/bg-left.png);
+  background-image: url("image/main/bg-left.png");
   width: 554px;
   height: 417px;
 }
@@ -177,7 +177,7 @@
   font-weight: 400;
   letter-spacing: 0.05em;
   color: #ffffff;
-  background-image: url(/image/main/bg-right.png);
+  background-image: url("image/main/bg-right.png");
   width: 554px;
   height: 417px;
 }
