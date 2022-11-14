@@ -10,7 +10,7 @@
   margin: 0 auto;
 }
 .header {
-  background-image: url("image/header/bg.png");
+  background: url("image/header/bg.png");
   padding: 40px 113px 60px;
   background-color: #fff;
 }
