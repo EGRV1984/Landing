@@ -10,7 +10,7 @@
   margin: 0 auto;
 }
 .header {
-  background: url(image/header/bg.png);
+  background: url(../image/header/bg.png);
   padding: 40px 113px 60px;
   background-color: #fff;
 }
@@ -85,7 +85,7 @@
 .column {
   width: 380px;
   height: 580px;
-  background-image: url(/image/main/box.png);
+  background-image: url("image/main/box.png");
   background-position: center;
   background-size: cover;
 }
