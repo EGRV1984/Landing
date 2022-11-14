@@ -177,7 +177,7 @@
   font-weight: 400;
   letter-spacing: 0.05em;
   color: #ffffff;
-  background-image: url(../image/main/bg-right.png);
+  background: url(../image/main/bg-right.png);
   width: 554px;
   height: 417px;
 }
